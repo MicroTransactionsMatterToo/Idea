@@ -1,0 +1,3 @@
+Idea
+-- Travis YML Build Config File Index:
+	Repository/List of preconfigured Travis YML Configs for different languages, including any scripts for it
