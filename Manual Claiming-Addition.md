@@ -3,7 +3,7 @@ layout: page
 title: Claiming an Idea
 permalink: /claim/help
 ---
-# ** Claiming Manually **
+##  **Claiming Manually**
 ##### Please note that this is not the recommended way to claim idea's. The recommended way can be found [here](http://derp)
 
 > 1. Clone the repo using `git clone derp`
@@ -17,7 +17,7 @@ permalink: /claim/help
 > 9. Create a pull request. If you don't know how to do this, follow the guide [here](https://help.github.com/articles/creating-a-pull-request/)
 
 -----
-# ** Adding an idea manually **
+#**Adding an idea manually**
 ##### Please note that this is not the recommended way of doing this. The recommended way can be found [here](http://derp)
 
 >1. Clone the repo using `git clone derp`
