@@ -16,7 +16,7 @@ permalink: /claim/help
 > 8. Push the commit to the remote using `git push`
 > 9. Create a pull request. If you don't know how to do this, follow the guide [here](https://help.github.com/articles/creating-a-pull-request/)
 
----
+-----
 # **Adding an idea manually**
 ##### Please note that this is not the recommended way of doing this. The recommended way can be found [here](http://derp)
 
