@@ -1,5 +1,5 @@
 ---
-template: page
+layout: page
 title: Claiming an Idea
 permalink: /claim/help
 ---
