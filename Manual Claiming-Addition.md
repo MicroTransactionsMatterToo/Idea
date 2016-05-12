@@ -1,3 +1,8 @@
+---
+template: page
+title: Claiming an Idea
+permalink: /claim/help
+---
 # **Claiming Manually**
 #####Please note that this is not the recommended way to claim idea's. The recommended way can be found [here](http://derp)
 
